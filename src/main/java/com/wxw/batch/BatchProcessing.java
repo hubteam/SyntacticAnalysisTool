@@ -13,7 +13,7 @@ import com.wxw.stream.SampleStream;
 import com.wxw.stream.XMLSampleStream;
 
 /**
- * 批处理进行XML格式和括号表达式之间的相互转换
+ * 批处理进行XML格式和括号表达式之间相互转换
  * @author 王馨苇
  *
  */
